@@ -11,11 +11,17 @@ O jogo não possui uma historia, pois eu o fiz visando aprender a programar em r
 Features:
 
 -Sistema de combate por turnos;
+
 -Sistema de venda e compra;
+
 -Sistema de missóes (apesar de eu ter implementado apenas uma);
+
 -Sistema de upar de nivel e distribuição de pontos;
+
 -Sistema de equipar items;
+
 -Sistema de exploração (do qual eu me orgulho);
+
 -Sistema de fast travel;
 
 
