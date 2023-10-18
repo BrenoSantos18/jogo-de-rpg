@@ -4,8 +4,11 @@
 
 Como rodar: 
 
+
 -Abra o terminal
+
 -Esteja no diretório dos arquivos
+
 -utilize o comando "ruby game.rb"
 
 --------------------------------------------------
