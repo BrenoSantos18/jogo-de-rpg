@@ -1,5 +1,15 @@
 # jogo-de-rpg
 
+--------------------------------------------------
+
+Como rodar: 
+
+-Abra o terminal
+-Esteja no diretório dos arquivos
+-utilize o comando "ruby game.rb"
+
+--------------------------------------------------
+
 Este jogo foi feito em Português - Brasil, This game was made in Portuguese - Brazil
 
 Este é meu primeiro projeto na área da programação, aonde eu resolvi aproveitar estudar e fazer algo que eu gosto ao mesmo tempo: jogos. 
